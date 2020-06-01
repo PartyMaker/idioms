@@ -1,6 +1,6 @@
 #pragma once
 #include <memory>
-#include "fast_pimpl.h"
+#include "fast_pimpl.hpp"
 
 /* forward declaration */
 namespace externalLib
